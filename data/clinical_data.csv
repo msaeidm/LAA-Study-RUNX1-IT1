@@ -1,0 +1,4 @@
+sample_id,age,gender,RUNX1_IT1_expression,hypertension
+1,63,M,0.47,Yes
+2,65,F,0.32,No
+...
